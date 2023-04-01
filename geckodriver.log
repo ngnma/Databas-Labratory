@@ -13307,3 +13307,190 @@ console.error: RemoteSecuritySettings.jsm:
   Failed to download attachment: TypeError: NetworkError: Network request failed
 console.error: RemoteSecuritySettings.jsm: 
   Failed to download attachment: TypeError: NetworkError: Network request failed
+1680389507409	geckodriver	INFO	Listening on 127.0.0.1:62038
+1680389507922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62039" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile5Lb0vF"
+2023-04-02 02:21:57.493 plugin-container[9853:195333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:21:57.497 plugin-container[9853:195333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62039
+2023-04-02 02:21:57.711 plugin-container[9853:195333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:21:57.711 plugin-container[9853:195333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:21:57.711 plugin-container[9853:195339] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:21:57.711 plugin-container[9853:195339] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:51:59.401 plugin-container[9856:195532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:51:59.401 plugin-container[9856:195532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:51:59.405 plugin-container[9856:195532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:51:59.405 plugin-container[9856:195532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:51:59.405 plugin-container[9856:195539] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:51:59.405 plugin-container[9856:195539] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62039/devtools/browser/4169e55f-06db-43b0-9e7c-ded9671f3cc1
+1680389857095	geckodriver	INFO	Listening on 127.0.0.1:62378
+1680389857609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62379" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile3Ssvfk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680389858122	Marionette	INFO	Marionette enabled
+2023-04-02 02:27:38.235 plugin-container[9960:198873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:27:38.236 plugin-container[9960:198873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:27:38.239 plugin-container[9960:198873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:27:38.239 plugin-container[9960:198873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:27:38.239 plugin-container[9960:198881] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:27:38.239 plugin-container[9960:198881] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1680389858358	Marionette	INFO	Listening on port 62388
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62388
+WebDriver BiDi listening on ws://127.0.0.1:62379
+1680389858482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile3Ssvfk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62379/devtools/browser/3623206c-1a15-4cf5-984f-faaad8f92337
+2023-04-01 22:57:39.968 plugin-container[9964:199060] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:39.968 plugin-container[9964:199060] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:57:39.975 plugin-container[9964:199060] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:39.975 plugin-container[9964:199060] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:57:39.975 plugin-container[9964:199066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:39.975 plugin-container[9964:199066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/, line 1: SyntaxError: expected expression, got ']'
+JavaScript error: https://toplearn.com/, line 1: SyntaxError: unexpected token: keyword 'function'
+2023-04-01 22:57:44.891 plugin-container[9971:199227] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:44.892 plugin-container[9971:199227] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:57:44.895 plugin-container[9971:199227] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:44.895 plugin-container[9971:199227] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:57:44.896 plugin-container[9971:199230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:57:44.896 plugin-container[9971:199230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/, line 1: SyntaxError: expected expression, got ']'
+1680389890925	Marionette	INFO	Stopped listening on port 62388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680389957676	geckodriver	INFO	Listening on 127.0.0.1:62556
+1680389958197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62557" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilepk5677"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680389958729	Marionette	INFO	Marionette enabled
+2023-04-02 02:29:18.835 plugin-container[10009:200740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:29:18.835 plugin-container[10009:200740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:29:18.838 plugin-container[10009:200740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:29:18.838 plugin-container[10009:200740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:29:18.838 plugin-container[10009:200738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:29:18.838 plugin-container[10009:200738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1680389958964	Marionette	INFO	Listening on port 62564
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62564
+WebDriver BiDi listening on ws://127.0.0.1:62557
+1680389959074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilepk5677/search.json.mozlz4", (void 0)))
+2023-04-01 22:59:20.481 plugin-container[10012:200882] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:20.481 plugin-container[10012:200882] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:59:20.484 plugin-container[10012:200882] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:20.484 plugin-container[10012:200882] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:59:20.484 plugin-container[10012:200883] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:20.484 plugin-container[10012:200883] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62557/devtools/browser/18a12b14-550a-4384-8ad8-186f1d86271b
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: unexpected token: keyword 'function'
+2023-04-01 22:59:23.703 plugin-container[10019:201037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:23.703 plugin-container[10019:201037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:59:23.707 plugin-container[10019:201037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:23.707 plugin-container[10019:201037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 22:59:23.707 plugin-container[10019:201032] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 22:59:23.707 plugin-container[10019:201032] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+1680389967033	Marionette	INFO	Stopped listening on port 62564
+1680390071405	geckodriver	INFO	Listening on 127.0.0.1:62711
+1680390071924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62712" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileDflyOj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680390072471	Marionette	INFO	Marionette enabled
+2023-04-02 02:31:12.580 plugin-container[10079:201980] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:12.580 plugin-container[10079:201980] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:31:12.584 plugin-container[10079:201980] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:12.584 plugin-container[10079:201980] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:31:12.585 plugin-container[10079:201988] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:12.585 plugin-container[10079:201988] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1680390072708	Marionette	INFO	Listening on port 62720
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62720
+WebDriver BiDi listening on ws://127.0.0.1:62712
+1680390072820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileDflyOj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62712/devtools/browser/4a7f6978-756d-43ae-b9e9-dfe0cfd3425a
+2023-04-01 23:01:14.460 plugin-container[10082:202146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:14.461 plugin-container[10082:202146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:14.465 plugin-container[10082:202146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:14.466 plugin-container[10082:202146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:14.466 plugin-container[10082:202185] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:14.466 plugin-container[10082:202185] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: unexpected token: keyword 'function'
+2023-04-01 23:01:17.592 plugin-container[10089:202310] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:17.592 plugin-container[10089:202310] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:17.595 plugin-container[10089:202310] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:17.595 plugin-container[10089:202310] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:17.595 plugin-container[10089:202313] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:17.595 plugin-container[10089:202313] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+1680390088684	Marionette	INFO	Stopped listening on port 62720
+1680390115774	geckodriver	INFO	Listening on 127.0.0.1:62789
+1680390116295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62790" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileu8Z7rJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680390116805	Marionette	INFO	Marionette enabled
+2023-04-02 02:31:56.920 plugin-container[10125:202817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:56.920 plugin-container[10125:202817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:31:56.924 plugin-container[10125:202817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:56.924 plugin-container[10125:202817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:31:56.924 plugin-container[10125:202822] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:31:56.925 plugin-container[10125:202822] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1680390117052	Marionette	INFO	Listening on port 62797
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62797
+WebDriver BiDi listening on ws://127.0.0.1:62790
+1680390117167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileu8Z7rJ/search.json.mozlz4", (void 0)))
+2023-04-01 23:01:58.679 plugin-container[10128:202979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:58.679 plugin-container[10128:202979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:58.683 plugin-container[10128:202979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:58.683 plugin-container[10128:202979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:01:58.683 plugin-container[10128:202978] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:01:58.683 plugin-container[10128:202978] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62790/devtools/browser/09c624b8-04a8-4a21-9b61-df79161366c4
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: unexpected token: keyword 'function'
+2023-04-01 23:02:01.314 plugin-container[10138:203147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:02:01.314 plugin-container[10138:203147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:02:01.318 plugin-container[10138:203147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:02:01.318 plugin-container[10138:203147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:02:01.318 plugin-container[10138:203152] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:02:01.318 plugin-container[10138:203152] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+1680390159920	Marionette	INFO	Stopped listening on port 62797
+1680390183002	geckodriver	INFO	Listening on 127.0.0.1:62897
+1680390183523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62898" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileyouZ6y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680390184041	Marionette	INFO	Marionette enabled
+1680390184109	Marionette	INFO	Listening on port 62905
+Read port: 62905
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-04-02 02:33:04.151 plugin-container[10171:203835] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:33:04.151 plugin-container[10171:203835] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:33:04.154 plugin-container[10171:203835] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:33:04.154 plugin-container[10171:203835] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-02 02:33:04.155 plugin-container[10171:203837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-02 02:33:04.155 plugin-container[10171:203837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62898
+1680390184394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileyouZ6y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62898/devtools/browser/5c5e7cec-18e3-4dd2-8dfd-6e872299982a
+2023-04-01 23:03:05.948 plugin-container[10174:203991] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:05.949 plugin-container[10174:203991] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:03:05.964 plugin-container[10174:203991] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:05.964 plugin-container[10174:203991] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:03:05.965 plugin-container[10174:204027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:05.965 plugin-container[10174:204027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: unexpected token: keyword 'function'
+2023-04-01 23:03:10.234 plugin-container[10187:204168] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:10.234 plugin-container[10187:204168] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:03:10.237 plugin-container[10187:204168] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:10.237 plugin-container[10187:204168] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-01 23:03:10.237 plugin-container[10187:204176] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-01 23:03:10.237 plugin-container[10187:204176] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://toplearn.com/Register, line 1: SyntaxError: expected expression, got ']'
+1680390198923	Marionette	INFO	Stopped listening on port 62905
