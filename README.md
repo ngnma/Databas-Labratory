@@ -23,10 +23,11 @@ This repo is project of database labratory by farbod fooladi & negin mashayekhi
 3. all libraries imported in code
 
 ## Phases
-this project have 8 phases
-0. Connecting to Database  
-2. Scraping a site and if there is some changes call Email/SMS API
-3. Login in websites with selenium
+This project have 8 phases
+
+0.  Connecting to Database  
+2.  Scraping a site and if there is some changes call Email/SMS API
+3.  Login in websites with selenium
 4. Kaptcha solver
 5. Registration
 6. Fill Forms
